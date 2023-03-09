@@ -1,4 +1,4 @@
-![Avatar](https://avatars.githubusercontent.com/u/113227915?s=80&v=4){: .rounded}
+![Avatar](https://avatars.githubusercontent.com/u/113227915?s=80&v=4)
 
 Я владею следующими языками программирования и технологиями:
 <p>
