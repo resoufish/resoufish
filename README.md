@@ -1,6 +1,6 @@
 ## Привет, я The-Schizophrenia!
 
-[![Avatar](https://avatars.githubusercontent.com/u/your_user_id)](https://github.com/the-schizophrenia)
+[![Avatar](https://avatars.githubusercontent.com/u/113227915)](https://github.com/the-schizophrenia)
 
 Я программист, который владеет языками программирования TypeScript и JavaScript, а также базами данных MongoDB, используя Mongoose.
 
