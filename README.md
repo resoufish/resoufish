@@ -1,5 +1,5 @@
 <div style="border-radius: 50%; overflow: hidden; width: 80px; height: 80px;">
-  <img src="https://avatars.githubusercontent.com/u/113227915?v=4" alt="Avatar" style="width: 100%;">
+  <img src="https://avatars.githubusercontent.com/u/113227915?v=4" alt="Avatar" style="width: 10%;">
 </div>
 
 
