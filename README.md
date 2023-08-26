@@ -20,12 +20,9 @@
 
 ## Статистика редактирования репозиториев
 
-![Статистика редактирования репозиториев](https://github-readme-stats.vercel.app/api?username=the-schizophrenia&count_private=true&show_icons=true&theme=radical)
+![Статистика редактирования репозиториев](https://github-readme-stats.vercel.app/api?username=pyanexy&count_private=true&show_icons=true&theme=radical)
 
 ## Дополнительная статистика
 
-![Топ языков программирования](https://github-readme-stats.vercel.app/api/top-langs/?username=the-schizophrenia&theme=radical&layout=compact)
+![Топ языков программирования](https://github-readme-stats.vercel.app/api/top-langs/?username=pyanexy&theme=radical&layout=compact)
 
-## Контакты
-
-Discord - xan1x4
