@@ -22,7 +22,3 @@ I am proficient in the following programming languages and technologies:
 ![Top Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nekowame&theme=radical&layout=compact)
 
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=nekowame&theme=radical)
-
-## Additional Stats
-
-![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nekowame)
